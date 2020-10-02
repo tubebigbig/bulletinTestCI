@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+  manager1:
+    image: alpine:latest
+  worker1:
+    image: alpine:latest
+  worker2:
+    image: alpine:latest
